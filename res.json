@@ -2,55 +2,6 @@
     {
         "labels": [
             {
-                "name": "Cloud",
-                "score": 0.9786741137504578
-            },
-            {
-                "name": "Sky",
-                "score": 0.9766615033149719
-            },
-            {
-                "name": "Building",
-                "score": 0.9589430093765259
-            },
-            {
-                "name": "Skyscraper",
-                "score": 0.9494031667709351
-            },
-            {
-                "name": "Daytime",
-                "score": 0.9451180696487427
-            },
-            {
-                "name": "Tower",
-                "score": 0.9113791584968567
-            },
-            {
-                "name": "Tower block",
-                "score": 0.8658744692802429
-            },
-            {
-                "name": "Architecture",
-                "score": 0.8570048213005066
-            },
-            {
-                "name": "Urban design",
-                "score": 0.8405497670173645
-            },
-            {
-                "name": "Dusk",
-                "score": 0.8363153338432312
-            }
-        ],
-        "landmark": {
-            "name": "China Central Television Headquarters building",
-            "score": 0.6174699068069458
-        },
-        "uri": "https://3m4r5618el913vtfz3jffby9-wpengine.netdna-ssl.com/wp-content/uploads/Landmarks-in-China-CCTV-735x490.jpg"
-    },
-    {
-        "labels": [
-            {
                 "name": "Plant",
                 "score": 0.9705331921577454
             },
@@ -95,7 +46,48 @@
         "uri": "http://pwz.mit.edu/img/bos_st/download%20(1).jpeg"
     },
     {
-        "labels": [],
+        "labels": [
+            {
+                "name": "Building",
+                "score": 0.9536840319633484
+            },
+            {
+                "name": "Infrastructure",
+                "score": 0.9009464979171753
+            },
+            {
+                "name": "Window",
+                "score": 0.896905779838562
+            },
+            {
+                "name": "Thoroughfare",
+                "score": 0.8346722722053528
+            },
+            {
+                "name": "Neighbourhood",
+                "score": 0.8182877898216248
+            },
+            {
+                "name": "Urban design",
+                "score": 0.8087770342826843
+            },
+            {
+                "name": "Travel",
+                "score": 0.7780053019523621
+            },
+            {
+                "name": "City",
+                "score": 0.7743781805038452
+            },
+            {
+                "name": "Road",
+                "score": 0.7735717296600342
+            },
+            {
+                "name": "Metropolitan area",
+                "score": 0.7718603014945984
+            }
+        ],
         "landmark": null,
         "uri": "http://pwz.mit.edu/img/bos_st/download%20(2).jpeg"
     },
@@ -469,7 +461,7 @@
         ],
         "landmark": {
             "name": "Render Coffee",
-            "score": 0.41195741295814514
+            "score": 0.4890424907207489
         },
         "uri": "http://pwz.mit.edu/img/bos_st/download%20(10).jpeg"
     }

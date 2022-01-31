@@ -4,7 +4,6 @@ from google.cloud import vision
 import time
 import json
 
-image_uri = 'gs://cloud-samples-data/vision/using_curl/shanghai.jpeg'
 image_uri = 'https://3m4r5618el913vtfz3jffby9-wpengine.netdna-ssl.com/wp-content/uploads/Landmarks-in-China-CCTV-735x490.jpg'
 
 def queryAPI(image_uri):
@@ -48,26 +47,9 @@ res = []
 
 res.append(queryAPI(image_uri))
 
-image_uris = [
-    'http://pwz.mit.edu/img/bos_st/download%20(1).jpeg',
-    'http://pwz.mit.edu/img/bos_st/download%20(2).jpeg',
-    'http://pwz.mit.edu/img/bos_st/download%20(3).jpeg',
-    'http://pwz.mit.edu/img/bos_st/download%20(4).jpeg',
-    'http://pwz.mit.edu/img/bos_st/download%20(5).jpeg',
-    'http://pwz.mit.edu/img/bos_st/download%20(6).jpeg',
-    'http://pwz.mit.edu/img/bos_st/download%20(7).jpeg',
-    'http://pwz.mit.edu/img/bos_st/download%20(8).jpeg',
-    'http://pwz.mit.edu/img/bos_st/download%20(9).jpeg',
-    'http://pwz.mit.edu/img/bos_st/download%20(10).jpeg',
-]
-
-for uri in image_uris:
-    print('+' * 30)
-    print("URI",uri)
-
-    res.append(queryAPI(uri))
-
 print(json.dumps(res, indent=4))
+
+# save the results to res.json
 with open("res.json", "w") as result_file:
     json.dump(res, result_file, indent=4, sort_keys=True)
     print('saving complete!!!')
