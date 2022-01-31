@@ -1,0 +1,476 @@
+[
+    {
+        "labels": [
+            {
+                "name": "Cloud",
+                "score": 0.9786741137504578
+            },
+            {
+                "name": "Sky",
+                "score": 0.9766615033149719
+            },
+            {
+                "name": "Building",
+                "score": 0.9589430093765259
+            },
+            {
+                "name": "Skyscraper",
+                "score": 0.9494031667709351
+            },
+            {
+                "name": "Daytime",
+                "score": 0.9451180696487427
+            },
+            {
+                "name": "Tower",
+                "score": 0.9113791584968567
+            },
+            {
+                "name": "Tower block",
+                "score": 0.8658744692802429
+            },
+            {
+                "name": "Architecture",
+                "score": 0.8570048213005066
+            },
+            {
+                "name": "Urban design",
+                "score": 0.8405497670173645
+            },
+            {
+                "name": "Dusk",
+                "score": 0.8363153338432312
+            }
+        ],
+        "landmark": {
+            "name": "China Central Television Headquarters building",
+            "score": 0.6174699068069458
+        },
+        "uri": "https://3m4r5618el913vtfz3jffby9-wpengine.netdna-ssl.com/wp-content/uploads/Landmarks-in-China-CCTV-735x490.jpg"
+    },
+    {
+        "labels": [
+            {
+                "name": "Plant",
+                "score": 0.9705331921577454
+            },
+            {
+                "name": "Window",
+                "score": 0.9187021255493164
+            },
+            {
+                "name": "Building",
+                "score": 0.9082591533660889
+            },
+            {
+                "name": "Road surface",
+                "score": 0.8800783157348633
+            },
+            {
+                "name": "Brick",
+                "score": 0.8695546388626099
+            },
+            {
+                "name": "Brickwork",
+                "score": 0.8614311814308167
+            },
+            {
+                "name": "Flooring",
+                "score": 0.8174158930778503
+            },
+            {
+                "name": "Neighbourhood",
+                "score": 0.8077714443206787
+            },
+            {
+                "name": "Urban design",
+                "score": 0.7997931241989136
+            },
+            {
+                "name": "Residential area",
+                "score": 0.7956734299659729
+            }
+        ],
+        "landmark": null,
+        "uri": "http://pwz.mit.edu/img/bos_st/download%20(1).jpeg"
+    },
+    {
+        "labels": [],
+        "landmark": null,
+        "uri": "http://pwz.mit.edu/img/bos_st/download%20(2).jpeg"
+    },
+    {
+        "labels": [
+            {
+                "name": "Building",
+                "score": 0.9570993781089783
+            },
+            {
+                "name": "Window",
+                "score": 0.9411749839782715
+            },
+            {
+                "name": "Plant",
+                "score": 0.8645628690719604
+            },
+            {
+                "name": "Fixture",
+                "score": 0.8412203788757324
+            },
+            {
+                "name": "Brick",
+                "score": 0.8365628123283386
+            },
+            {
+                "name": "Neighbourhood",
+                "score": 0.8300029635429382
+            },
+            {
+                "name": "Road surface",
+                "score": 0.8295970559120178
+            },
+            {
+                "name": "House",
+                "score": 0.8162980675697327
+            },
+            {
+                "name": "City",
+                "score": 0.7852816581726074
+            },
+            {
+                "name": "Flooring",
+                "score": 0.7775285840034485
+            }
+        ],
+        "landmark": null,
+        "uri": "http://pwz.mit.edu/img/bos_st/download%20(3).jpeg"
+    },
+    {
+        "labels": [
+            {
+                "name": "Automotive parking light",
+                "score": 0.9759773015975952
+            },
+            {
+                "name": "Building",
+                "score": 0.9628131985664368
+            },
+            {
+                "name": "Car",
+                "score": 0.9485099911689758
+            },
+            {
+                "name": "Vehicle",
+                "score": 0.9421683549880981
+            },
+            {
+                "name": "Wheel",
+                "score": 0.9388217329978943
+            },
+            {
+                "name": "Tire",
+                "score": 0.9236593246459961
+            },
+            {
+                "name": "Infrastructure",
+                "score": 0.895385205745697
+            },
+            {
+                "name": "Skyscraper",
+                "score": 0.8899450302124023
+            },
+            {
+                "name": "Window",
+                "score": 0.8619012832641602
+            },
+            {
+                "name": "Mode of transport",
+                "score": 0.8446824550628662
+            }
+        ],
+        "landmark": null,
+        "uri": "http://pwz.mit.edu/img/bos_st/download%20(4).jpeg"
+    },
+    {
+        "labels": [
+            {
+                "name": "Building",
+                "score": 0.967555046081543
+            },
+            {
+                "name": "Window",
+                "score": 0.9386568665504456
+            },
+            {
+                "name": "Infrastructure",
+                "score": 0.895906388759613
+            },
+            {
+                "name": "Vehicle",
+                "score": 0.8939933180809021
+            },
+            {
+                "name": "Mode of transport",
+                "score": 0.8613903522491455
+            },
+            {
+                "name": "Car",
+                "score": 0.859898030757904
+            },
+            {
+                "name": "Thoroughfare",
+                "score": 0.8592370748519897
+            },
+            {
+                "name": "Skyscraper",
+                "score": 0.8198327422142029
+            },
+            {
+                "name": "Neighbourhood",
+                "score": 0.8186201453208923
+            },
+            {
+                "name": "Urban design",
+                "score": 0.8011029958724976
+            }
+        ],
+        "landmark": {
+            "name": "Old State House",
+            "score": 0.44856855273246765
+        },
+        "uri": "http://pwz.mit.edu/img/bos_st/download%20(5).jpeg"
+    },
+    {
+        "labels": [
+            {
+                "name": "Building",
+                "score": 0.9628750085830688
+            },
+            {
+                "name": "Photograph",
+                "score": 0.9422880411148071
+            },
+            {
+                "name": "Skyscraper",
+                "score": 0.9216685891151428
+            },
+            {
+                "name": "Vehicle",
+                "score": 0.9201834797859192
+            },
+            {
+                "name": "Car",
+                "score": 0.9185034036636353
+            },
+            {
+                "name": "Infrastructure",
+                "score": 0.9061607718467712
+            },
+            {
+                "name": "Sky",
+                "score": 0.8965752720832825
+            },
+            {
+                "name": "Asphalt",
+                "score": 0.8748654723167419
+            },
+            {
+                "name": "Thoroughfare",
+                "score": 0.8632668852806091
+            },
+            {
+                "name": "Plant",
+                "score": 0.8618906736373901
+            }
+        ],
+        "landmark": null,
+        "uri": "http://pwz.mit.edu/img/bos_st/download%20(6).jpeg"
+    },
+    {
+        "labels": [
+            {
+                "name": "Flower",
+                "score": 0.9567694664001465
+            },
+            {
+                "name": "Plant",
+                "score": 0.9456872344017029
+            },
+            {
+                "name": "Building",
+                "score": 0.940221905708313
+            },
+            {
+                "name": "Sky",
+                "score": 0.867042064666748
+            },
+            {
+                "name": "Architecture",
+                "score": 0.8506947755813599
+            },
+            {
+                "name": "Road surface",
+                "score": 0.8428710103034973
+            },
+            {
+                "name": "Yellow",
+                "score": 0.84116530418396
+            },
+            {
+                "name": "Urban design",
+                "score": 0.8327533602714539
+            },
+            {
+                "name": "Neighbourhood",
+                "score": 0.8145990371704102
+            },
+            {
+                "name": "Sidewalk",
+                "score": 0.7974635362625122
+            }
+        ],
+        "landmark": null,
+        "uri": "http://pwz.mit.edu/img/bos_st/download%20(7).jpeg"
+    },
+    {
+        "labels": [
+            {
+                "name": "Automotive parking light",
+                "score": 0.9719767570495605
+            },
+            {
+                "name": "Wheel",
+                "score": 0.9671941995620728
+            },
+            {
+                "name": "Car",
+                "score": 0.967001736164093
+            },
+            {
+                "name": "Building",
+                "score": 0.9596035480499268
+            },
+            {
+                "name": "Sky",
+                "score": 0.9539040923118591
+            },
+            {
+                "name": "Property",
+                "score": 0.9438088536262512
+            },
+            {
+                "name": "Vehicle",
+                "score": 0.9367271661758423
+            },
+            {
+                "name": "Tire",
+                "score": 0.9358882904052734
+            },
+            {
+                "name": "Infrastructure",
+                "score": 0.897731602191925
+            },
+            {
+                "name": "Window",
+                "score": 0.896380603313446
+            }
+        ],
+        "landmark": null,
+        "uri": "http://pwz.mit.edu/img/bos_st/download%20(8).jpeg"
+    },
+    {
+        "labels": [
+            {
+                "name": "Sky",
+                "score": 0.9354679584503174
+            },
+            {
+                "name": "Building",
+                "score": 0.9278191924095154
+            },
+            {
+                "name": "Infrastructure",
+                "score": 0.8893718123435974
+            },
+            {
+                "name": "Neighbourhood",
+                "score": 0.8429256081581116
+            },
+            {
+                "name": "Road surface",
+                "score": 0.8143864274024963
+            },
+            {
+                "name": "City",
+                "score": 0.7934630513191223
+            },
+            {
+                "name": "Travel",
+                "score": 0.7892859578132629
+            },
+            {
+                "name": "Road",
+                "score": 0.7779914140701294
+            },
+            {
+                "name": "Facade",
+                "score": 0.7120257616043091
+            },
+            {
+                "name": "Mixed-use",
+                "score": 0.704815149307251
+            }
+        ],
+        "landmark": null,
+        "uri": "http://pwz.mit.edu/img/bos_st/download%20(9).jpeg"
+    },
+    {
+        "labels": [
+            {
+                "name": "Automotive parking light",
+                "score": 0.9777186512947083
+            },
+            {
+                "name": "Wheel",
+                "score": 0.9678774476051331
+            },
+            {
+                "name": "Land vehicle",
+                "score": 0.9671542048454285
+            },
+            {
+                "name": "Car",
+                "score": 0.9661229848861694
+            },
+            {
+                "name": "Building",
+                "score": 0.9633780717849731
+            },
+            {
+                "name": "Vehicle",
+                "score": 0.9455049633979797
+            },
+            {
+                "name": "Sky",
+                "score": 0.9438872933387756
+            },
+            {
+                "name": "Property",
+                "score": 0.9436625242233276
+            },
+            {
+                "name": "Window",
+                "score": 0.9388611316680908
+            },
+            {
+                "name": "Tire",
+                "score": 0.9171107411384583
+            }
+        ],
+        "landmark": {
+            "name": "Render Coffee",
+            "score": 0.41195741295814514
+        },
+        "uri": "http://pwz.mit.edu/img/bos_st/download%20(10).jpeg"
+    }
+]
