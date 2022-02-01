@@ -2,4 +2,4 @@
 
 Environment setup guide:
 
-https://codelabs.developers.google.com/codelabs/cloud-vision-api-pythonhttps://github.com/panthersuper/vision-api-query
+https://codelabs.developers.google.com/codelabs/cloud-vision-api-python
